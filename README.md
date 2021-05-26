@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Mosess
+- 🌱 I’m currently learning Blockchain Engineer
