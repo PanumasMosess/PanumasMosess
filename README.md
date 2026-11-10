@@ -12,29 +12,26 @@ Results-driven Software Engineer with **6+ years of experience** in full-stack w
 
 ### 🛠️ Tech Stack & Tools
 
-**AI & Agents**
-![Google Gemini](https://shields.io)
-![AI Agents](https://shields.io)
-
 **Frontend & Mobile**
-![TypeScript](https://shields.io)
-![Next.js](https://shields.io)
-![React](https://shields.io)
-![JavaScript](https://shields.io)
-![Flutter](https://shields.io)
+- TypeScript
+- Next.js
+- React
+- JavaScript
+- Flutter
 
 **Backend**
-![Node.js](https://shields.io)
-![Express.js](https://shields.io)
-![PHP](https://shields.io)
-![C#](https://shields.io)
+- Node.js
+- Express.js
+- PHP
+- C#
 
 **Databases & Cloud**
-![MySQL](https://shields.io)
-![Microsoft SQL Server](https://shields.io)
-![Oracle](https://shields.io)
-![DigitalOcean](https://shields.io)
-![AWS S3](https://shields.io)
+- MySQL
+- Microsoft SQL Server
+- Oracle
+- DigitalOcean
+- AWS S3
+
 
 ---
 
